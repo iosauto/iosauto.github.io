@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkios_auto_touch=self.webpackChunkios_auto_touch||[]).push([[49],{3769:u=>{u.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
